@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Terry esdra Me gusta el software</p>
+<p align="left">Mi nombre es Terry  Me gusta el software</p>
 
 ###
 
