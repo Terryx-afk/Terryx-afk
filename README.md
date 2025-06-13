@@ -1,4 +1,22 @@
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
+
+<p align="left">Mi nombre es Terry esdra Me gusta el software</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creando bichos desde...<br>📚 Actualmente estoy aprendiendo...<br>🎯 Metas: ser un frontend <br>🎲 Dato curioso:print("holamundo")</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
