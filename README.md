@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Lenguajes</h2>
+<h2 align="left">Idiomas y herramientas</h2>
 
 ###
 
